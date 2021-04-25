@@ -1,0 +1,20 @@
+linea 
+
+rectangulo
+
+rectangulo Lleno -- color llenado
+
+circulo
+
+arco
+
+triangulo
+
+texto - fuente
+
+texto silueta
+
+imagen
+
+ejes coordenados
+
